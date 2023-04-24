@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Database migrations on AWS Elastic Beanstalk Docker platform"
-date:   2023-04-13 09:30:13 -0500
+date:   2023-04-24 08:30:00 -0500
 categories: devops aws
 author: Blake Gardner
 ---
